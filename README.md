@@ -85,3 +85,8 @@ I’m a passionate software developer with a strong foundation in UI/UX design, 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/640px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/>
     </a>
 </p>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
