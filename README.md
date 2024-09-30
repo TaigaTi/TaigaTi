@@ -89,4 +89,5 @@ I’m a passionate software developer with a strong foundation in UI/UX design, 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deceptive Design: The Hidden Betrayals of Modern Apps](https://medium.com/@tarikabirch/deceptive-design-the-hidden-betrayals-of-modern-apps-22f944d12362?source=rss-686b148b0c78------2)
 <!-- BLOG-POST-LIST:END -->
