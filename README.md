@@ -1,6 +1,6 @@
-## 🌐 Languages and Tools
+## 💻 Languages and Tools
 
-### 💻 Programming Tools
+### Programming Tools
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -49,7 +49,7 @@
     </a>
 </p>
 
-### 🎨 Design Tools
+### Design Tools
 <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
