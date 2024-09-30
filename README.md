@@ -1,3 +1,17 @@
+## 👋 Hey, I'm Tarika!
+
+**Software Developer | UI/UX Designer | Visual Artist**
+<br/><br/>
+
+## 🌟 About Me
+
+I’m a passionate software developer with a strong foundation in UI/UX design, visual arts, and a love for blending technology and creativity. I’ve worked on a wide range of projects from mobile apps to website redesigns, and my key motivation is to solve complex problems with a user-centric approach.
+
+- 🎓 **B.Sc. Computer Science with Management** (University of the West Indies, Cave Hill) - Expected Graduation: 2025
+- 🏆 **Award-Winning Artist** with 7 years of experience in art and design
+- 🎨 **Founder** of an art and graphics design company - Querencia Studios
+<br/><br/>
+
 ## 💻 Languages and Tools
 
 ### Programming Tools
