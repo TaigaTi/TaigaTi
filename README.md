@@ -73,7 +73,7 @@ I’m a passionate software developer with a strong foundation in UI/UX design, 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/>
     </a>
     <a href="https://procreate.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Procreate-icon.png/640px-Procreate-icon.png" alt="Lightroom" width="40" height="40"/>
+        <img src="https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376" alt="Lightroom" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40"/>
