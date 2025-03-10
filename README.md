@@ -70,7 +70,7 @@ A Software Developer with a strong foundation in UI/UX design, visual arts, and 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     </a>
     <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/>
+        <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-Emblem.png" alt="Canva" height="40"/>
     </a>
     <a href="https://procreate.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376" alt="Lightroom" width="40" height="40"/>
