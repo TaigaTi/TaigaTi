@@ -90,6 +90,7 @@ A Software Developer with a strong foundation in UI/UX design, visual arts, and 
 
 ## 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Is Not Your Friend.](https://medium.com/@tarikabirch/chatgpt-is-not-your-friend-4af55de629d2?source=rss-686b148b0c78------2)
 - [Behind the Shadows: The Secrets of Dark Mode](https://medium.com/@tarikabirch/behind-the-shadows-the-secrets-of-dark-mode-d2a40b6e1d95?source=rss-686b148b0c78------2)
 - [Deceptive Design: The Hidden Betrayals of Modern Apps](https://medium.com/@tarikabirch/deceptive-design-the-hidden-betrayals-of-modern-apps-22f944d12362?source=rss-686b148b0c78------2)
 <!-- BLOG-POST-LIST:END -->
