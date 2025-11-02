@@ -1,16 +1,15 @@
 ## 👋 Hey, I'm Tarika!
 
-**Software Developer | UI/UX Designer | Visual Artist**
+**Software Engineer | UI/UX Designer | Visual Artist**
 <br/><br/>
 
 ## 🌟 About Me
 
 A Software Developer with a strong foundation in UI/UX design, visual arts, and a love for blending technology and creativity. I’ve worked on a wide range of projects from mobile apps to website redesigns, and my key motivation is to solve complex problems with a user-centric approach.
 
-- 🎓 **B.Sc. Computer Science with Management** (University of the West Indies, Cave Hill) - Expected Graduation: 2025
-- 📓 **Secretary of the Computer Science Society** - Faculty of Science and Technology, UWI Cave Hill
-- 🏆 **Award-Winning Artist** with 7 years of experience in art and design
-- 🎨 **Founder** of an art and graphics design company - Querencia Studios
+- 🎓 **B.Sc. Computer Science with Management, First Class Honours** - GPA: 3.89
+- 📓 **Founder of Tessera Studios** - Software Design & Development Company
+- 🏆 **Award-Winning Artist** with 8 years of experience in art and design
 <br/><br/>
 
 ## 💻 Languages and Tools
