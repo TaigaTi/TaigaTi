@@ -59,7 +59,7 @@ A Software Developer with a strong foundation in UI/UX design, visual arts, and 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4bcd2542-dffb-4c52-ae2c-bcf323d0b17c" />
     </a>
 </p>
 
@@ -75,13 +75,13 @@ A Software Developer with a strong foundation in UI/UX design, visual arts, and 
         <img src="https://cdn.shopify.com/s/files/1/0754/2767/6508/files/procreate-logo_480x480.jpg?v=1683203376" alt="Lightroom" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40"/>
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/dca3499a-11cf-4259-9f4c-0b626ef09183" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/adobe-photoshop.svg" alt="Photoshop" width="40" height="40"/>
     </a>
     <a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/640px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/>
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/41ec99a9-e7b1-48ec-a2c4-af60ee158f1e" />
     </a>
 </p>
 
